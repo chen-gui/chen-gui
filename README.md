@@ -1,6 +1,20 @@
 ### Hi there 👋, I'm Gui Chen, a workers interested in seismology !!!
 
-<img src='https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png' alt='Slicing' width=960/>
+<table>
+  <tr>
+    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lxYTlxcWlldnhreDVwMnkxZTkyMTFhbmtmN29neW5xeXp4dHJsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif" width="300"></td>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ4cGh0eW1wOGVscWlxcDZqb3YzamtiZXRwYzBuM2pxa2htMjRlNCZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/9G5pUmbwBm956KkUjR/giphy.gif" width="300"></td>
+    <td><img src="https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png" width="400"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1cTQyMG1mMXRheTg2NGxzcDdocWxxcWIyMWx5aTVjNnBsMHZjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVgXiAX8wdmmtQx95F/giphy.gif" width="300"></td>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ4cGh0eW1wOGVscWlxcDZqb3YzamtiZXRwYzBuM2pxa2htMjRlNCZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/9G5pUmbwBm956KkUjR/giphy.gif" width="300"></td>
+    <td><img src="https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png" width="400"></td>
+  </tr>
+</table>
 
 ### 🔭 Current Work
 - Working on **DAS data analysis and FWI** from FORGE, Arcata–Eureka, and SAFOD deployments.  
