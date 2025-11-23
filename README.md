@@ -10,9 +10,9 @@
 
 <table>
   <tr>
-    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1cTQyMG1mMXRheTg2NGxzcDdocWxxcWIyMWx5aTVjNnBsMHZjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVgXiAX8wdmmtQx95F/giphy.gif" width="300"></td>
-    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ4cGh0eW1wOGVscWlxcDZqb3YzamtiZXRwYzBuM2pxa2htMjRlNCZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/9G5pUmbwBm956KkUjR/giphy.gif" width="300"></td>
-    <td><img src="https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png" width="600"></td>
+    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1cTQyMG1mMXRheTg2NGxzcDdocWxxcWIyMWx5aTVjNnBsMHZjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVgXiAX8wdmmtQx95F/giphy.gif" width="400"></td>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ4cGh0eW1wOGVscWlxcDZqb3YzamtiZXRwYzBuM2pxa2htMjRlNCZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/9G5pUmbwBm956KkUjR/giphy.gif" width="400"></td>
+    <td><img src="https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png" width="400"></td>
   </tr>
 </table>
 
