@@ -22,4 +22,14 @@ I'm a workers interested in seismology!!!
 
 ### 📫 Contact Me
 - Email: chenguicup@163.com
-- [Researchgate](https://www.researchgate.net/profile/Gui-Chen-13?ev=prf_overview) 
+- [Researchgate](https://www.researchgate.net/profile/Gui-Chen-13?ev=prf_overview)
+  
+---
+
+### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EA4335?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
