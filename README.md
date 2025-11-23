@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gui Chen, a workers interested in seismology !!!
+### Hi there 👋, I'm Gui Chen, a worker interested in seismology !!!
 
 <table>
   <tr>
