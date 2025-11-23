@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Gui Chen
 
+<img src='https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png' alt='Slicing' width=600/>
+
 I'm a workers interested in seismology!!!
 
 ### 🔭 Current Work
