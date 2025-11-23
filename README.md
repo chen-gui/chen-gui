@@ -1,8 +1,6 @@
-## Hi there 👋, I'm Gui Chen
+### Hi there 👋, I'm Gui Chen, a workers interested in seismology !!!
 
 <img src='https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png' alt='Slicing' width=600/>
-
-I'm a workers interested in seismology!!!
 
 ### 🔭 Current Work
 - Working on **DAS data analysis and FWI** from FORGE, Arcata–Eureka, and SAFOD deployments.  
