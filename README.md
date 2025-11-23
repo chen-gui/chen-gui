@@ -4,15 +4,15 @@
   <tr>
     <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lxYTlxcWlldnhreDVwMnkxZTkyMTFhbmtmN29neW5xeXp4dHJsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif" width="300"></td>
     <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ2cjBmaGd4ajlhMHc2M2QxZDh3cGR3eXBka3JwYTcyd2FzemJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif" width="300"></td>
-    <td><img src="https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png" width="300"></td>
+    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJxMGdoaXpsczkwbzNsem9xMnQyN3o5OTFtbzFjMjZkcXB5MDBteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSamEAHtGSZTJgVS5O/giphy.gif" width="200"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1cTQyMG1mMXRheTg2NGxzcDdocWxxcWIyMWx5aTVjNnBsMHZjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVgXiAX8wdmmtQx95F/giphy.gif" width="300"></td>
-    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ4cGh0eW1wOGVscWlxcDZqb3YzamtiZXRwYzBuM2pxa2htMjRlNCZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/9G5pUmbwBm956KkUjR/giphy.gif" width="300"></td>
-    <td><img src="https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png" width="300"></td>
+    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1cTQyMG1mMXRheTg2NGxzcDdocWxxcWIyMWx5aTVjNnBsMHZjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVgXiAX8wdmmtQx95F/giphy.gif" width="200"></td>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ4cGh0eW1wOGVscWlxcDZqb3YzamtiZXRwYzBuM2pxa2htMjRlNCZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/9G5pUmbwBm956KkUjR/giphy.gif" width="200"></td>
+    <td><img src="https://github.com/chenyk1990/gallery/blob/main/csdl/geometry.png" width="200"></td>
   </tr>
 </table>
 
